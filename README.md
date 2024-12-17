@@ -1,5 +1,5 @@
 # mnb-llama
-MNB LLaMA 3.2 1B In-Development Starting Code with Attemps
+MNB LLaMA 3.2 1B In-Development Starting Code with Attempts
 
 In this repo is starter code for Using Classifier to classify mathematical problems to Improve LLM Training and Accuracy
 
